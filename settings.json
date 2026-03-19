@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "orangemc30.aternos.me
-    "port": 49808,
+    "ip": "orangemc30-Z198.aternos.me:20749
+    "port": 20749,
     "version": "",
     "try-creative": false
   },
